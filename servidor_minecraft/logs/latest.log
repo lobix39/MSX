@@ -659,3 +659,9 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 23:12:07.439] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1616 ms
 [27Nov2024 23:12:07.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (1.779s)! For help, type "help"
 [27Nov2024 23:12:10.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[27Nov2024 23:25:41.708] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@67e1ed5
+[27Nov2024 23:25:41.725] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: josue1507[/0:0:0:0:0:0:0:1%0:56734] logged in with entity id 249 at (-241.5, 63.0, 168.5)
+[27Nov2024 23:25:41.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 joined the game
+[27Nov2024 23:25:41.923] [Server thread/INFO] [Waila/]: Syncing config to josue1507 (ee3fb80b-66f2-33a0-8c02-9f1ec39b4112)
+[27Nov2024 23:26:23.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 has made the advancement [Alex's Mobs]
+[27Nov2024 23:27:34.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 has made the advancement [Getting an Upgrade]
