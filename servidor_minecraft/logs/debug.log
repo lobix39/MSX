@@ -5318,3 +5318,13 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 08:57:00.788] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27Nov2024 09:02:00.777] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Nov2024 09:02:00.786] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 09:07:00.779] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Nov2024 09:07:00.788] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 09:08:37.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
+[27Nov2024 09:09:00.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was slain by Zombie
+[27Nov2024 09:10:51.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
+[27Nov2024 09:11:06.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was slain by Spider
+[27Nov2024 09:12:01.007] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Nov2024 09:12:01.019] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 09:14:37.665] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
+[27Nov2024 09:14:37.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game

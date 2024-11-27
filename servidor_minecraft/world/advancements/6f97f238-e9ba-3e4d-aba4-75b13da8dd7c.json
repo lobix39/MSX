@@ -65,9 +65,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
     },
     "done": true
   },
@@ -79,7 +103,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2024-11-27 08:37:12 +0000"
+      "minecraft:forest": "2024-11-27 08:37:12 +0000",
+      "minecraft:river": "2024-11-27 09:12:52 +0000",
+      "minecraft:wooded_hills": "2024-11-27 09:10:25 +0000"
     },
     "done": false
   },
@@ -107,6 +133,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
@@ -119,15 +151,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-27 09:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-27 08:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
     },
     "done": true
   },
@@ -173,6 +223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-11-27 08:37:30 +0000"
@@ -182,6 +238,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-11-27 08:37:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
     },
     "done": true
   },
@@ -215,6 +277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
@@ -224,6 +292,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
     },
     "done": true
   },
@@ -251,6 +325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2024-11-27 08:37:12 +0000"
@@ -259,7 +339,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-11-27 08:39:39 +0000"
+      "minecraft:skeleton": "2024-11-27 08:39:39 +0000",
+      "minecraft:zombie": "2024-11-27 09:09:36 +0000"
     },
     "done": false
   },
@@ -280,6 +361,12 @@
       "has_log": "2024-11-27 08:41:35 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-11-27 09:13:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -317,9 +404,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-11-27 08:41:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
     },
     "done": true
   },
@@ -377,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
@@ -386,6 +491,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-27 08:37:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
     },
     "done": true
   },
@@ -404,6 +515,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-11-27 08:37:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 09:11:20 +0000"
     },
     "done": true
   },

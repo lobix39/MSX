@@ -1611,3 +1611,9 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 08:49:20.375] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lobix39[/0:0:0:0:0:0:0:1%0:51862] logged in with entity id 1395 at (-257.81593513423866, 69.0, 244.84991892194634)
 [27Nov2024 08:49:20.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
 [27Nov2024 08:49:20.410] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
+[27Nov2024 09:08:37.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
+[27Nov2024 09:09:00.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was slain by Zombie
+[27Nov2024 09:10:51.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
+[27Nov2024 09:11:06.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was slain by Spider
+[27Nov2024 09:14:37.665] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
+[27Nov2024 09:14:37.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
