@@ -5660,3 +5660,10 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 10:11:26.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Sweet Dreams]
 [27Nov2024 10:12:01.095] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [27Nov2024 10:12:01.103] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 10:17:01.579] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Nov2024 10:17:01.587] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 10:17:28.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Acquire Hardware]
+[27Nov2024 10:19:52.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Amateur Archaeologist]
+[27Nov2024 10:22:02.246] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Nov2024 10:22:02.253] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 10:22:30.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Isn't It Iron Pick]
