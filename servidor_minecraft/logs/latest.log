@@ -1617,3 +1617,8 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 09:11:06.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was slain by Spider
 [27Nov2024 09:14:37.665] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
 [27Nov2024 09:14:37.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
+[27Nov2024 09:16:46.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Lobix39 a server operator
+[27Nov2024 09:19:51.663] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1a25a897
+[27Nov2024 09:19:51.669] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lobix39[/0:0:0:0:0:0:0:1%0:49034] logged in with entity id 4509 at (-240.8844443034011, 63.0, 164.53497712689398)
+[27Nov2024 09:19:51.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
+[27Nov2024 09:19:51.707] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
