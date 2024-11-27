@@ -1630,3 +1630,5 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 09:32:05.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
 [27Nov2024 09:32:05.505] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
 [27Nov2024 09:32:25.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Lobix39: Set own game mode to Survival Mode]
+[27Nov2024 09:43:32.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Stone Age]
+[27Nov2024 09:46:16.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Getting an Upgrade]
