@@ -1632,3 +1632,7 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 09:32:25.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Lobix39: Set own game mode to Survival Mode]
 [27Nov2024 09:43:32.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Stone Age]
 [27Nov2024 09:46:16.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Getting an Upgrade]
+[27Nov2024 09:48:47.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
+[27Nov2024 09:48:52.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was slain by Zombie
+[27Nov2024 09:54:35.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
+[27Nov2024 09:54:40.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was killed by Witch using magic
