@@ -5647,3 +5647,9 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 09:52:00.977] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [27Nov2024 09:54:35.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
 [27Nov2024 09:54:40.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was killed by Witch using magic
+[27Nov2024 09:57:00.819] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Nov2024 09:57:00.827] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 10:02:00.844] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Nov2024 10:02:00.852] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 10:02:01.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
+[27Nov2024 10:02:06.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was slain by Trader Llama
