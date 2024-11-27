@@ -665,3 +665,7 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 23:25:41.923] [Server thread/INFO] [Waila/]: Syncing config to josue1507 (ee3fb80b-66f2-33a0-8c02-9f1ec39b4112)
 [27Nov2024 23:26:23.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 has made the advancement [Alex's Mobs]
 [27Nov2024 23:27:34.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 has made the advancement [Getting an Upgrade]
+[27Nov2024 23:36:16.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 has made the advancement [Sweet Dreams]
+[27Nov2024 23:38:27.848] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: josue1507 lost connection: Timed out
+[27Nov2024 23:38:27.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 left the game
+[27Nov2024 23:38:27.907] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
