@@ -1638,3 +1638,6 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 09:54:40.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was killed by Witch using magic
 [27Nov2024 10:02:01.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
 [27Nov2024 10:02:06.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was slain by Trader Llama
+[27Nov2024 10:10:21.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 is bleeding...
+[27Nov2024 10:10:27.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 was shot by Skeleton
+[27Nov2024 10:11:26.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Sweet Dreams]
