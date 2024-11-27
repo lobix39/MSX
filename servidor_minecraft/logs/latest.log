@@ -1605,3 +1605,9 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [27Nov2024 08:45:34.480] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lobix39[/0:0:0:0:0:0:0:1%0:46556] logged in with entity id 1256 at (-252.2852865353412, 68.0, 245.54770255193338)
 [27Nov2024 08:45:34.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
 [27Nov2024 08:45:34.518] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
+[27Nov2024 08:46:34.614] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
+[27Nov2024 08:46:34.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
+[27Nov2024 08:49:20.365] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1c72efba
+[27Nov2024 08:49:20.375] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lobix39[/0:0:0:0:0:0:0:1%0:51862] logged in with entity id 1395 at (-257.81593513423866, 69.0, 244.84991892194634)
+[27Nov2024 08:49:20.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
+[27Nov2024 08:49:20.410] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
