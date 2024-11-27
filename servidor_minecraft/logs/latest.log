@@ -10456,3 +10456,6 @@ Missing minecraft:entity_type:
 [27Nov2024 19:46:18.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
 [27Nov2024 19:46:18.839] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
 [27Nov2024 19:47:26.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 has made the advancement [Voluntary Exile]
+[27Nov2024 20:03:20.289] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
+[27Nov2024 20:03:20.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
+[27Nov2024 20:03:20.343] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice

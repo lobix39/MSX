@@ -14864,3 +14864,11 @@ Missing minecraft:entity_type:
 [27Nov2024 19:54:52.656] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 6f97f238-e9ba-3e4d-aba4-75b13da8dd7c data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=96506a5e-a69c-4a18-9add-d43dfd272fa6, length=46, extra={valid=true}}, startingAt=0, player=null}
 [27Nov2024 19:54:57.136] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 6f97f238-e9ba-3e4d-aba4-75b13da8dd7c data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=0de63fbe-2f20-44e0-8969-479b76ceeb6b, length=44, extra={valid=true}}, startingAt=0, player=null}
 [27Nov2024 19:54:59.963] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 6f97f238-e9ba-3e4d-aba4-75b13da8dd7c data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[27Nov2024 19:55:15.996] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: 6f97f238-e9ba-3e4d-aba4-75b13da8dd7c data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[27Nov2024 19:55:57.175] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Nov2024 19:55:57.189] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 20:00:57.145] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Nov2024 20:00:57.155] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Nov2024 20:03:20.289] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
+[27Nov2024 20:03:20.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
+[27Nov2024 20:03:20.343] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
