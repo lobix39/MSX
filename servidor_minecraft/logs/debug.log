@@ -4988,3 +4988,21 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [28Nov2024 04:44:16.918] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: c0cd6996-e000-3ff8-80be-24de97c78203 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
 [28Nov2024 04:44:47.027] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 7.450283772463081,0.0,-6.829648914789857
 [28Nov2024 04:45:29.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY has made the advancement [Getting an Upgrade]
+[28Nov2024 04:47:22.719] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 04:47:22.731] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 04:47:23.189] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[28Nov2024 04:47:23.189] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md2658c0$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[28Nov2024 04:47:23.190] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md2658c0$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[28Nov2024 04:47:23.190] [Worker-Main-4/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md2658c0$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[28Nov2024 04:47:47.979] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! -9.69979731802323,1.0,2.4061741587904066
+[28Nov2024 04:50:25.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> tzzzzzzzzzzzzzzzzz
+[28Nov2024 04:50:25.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
+[28Nov2024 04:50:26.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
+[28Nov2024 04:50:27.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
+[28Nov2024 04:50:27.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
+[28Nov2024 04:50:31.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
+[28Nov2024 04:50:40.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ZZZZZZZZZZZZZZZ
+[28Nov2024 04:52:22.802] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 04:52:22.812] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 04:55:42.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY is bleeding...
+[28Nov2024 04:56:11.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY is bleeding...

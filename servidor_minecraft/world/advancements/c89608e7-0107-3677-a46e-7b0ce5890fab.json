@@ -670,6 +670,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-11-28 04:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-11-28 02:46:41 +0000"
@@ -1156,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 04:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-11-28 02:47:38 +0000"
@@ -1183,6 +1195,12 @@
   "create:recipes/create.palettes/andesite_cobblestone_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 03:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 04:45:58 +0000"
     },
     "done": true
   },
@@ -1594,6 +1612,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 04:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-28 02:47:38 +0000"
@@ -1731,6 +1755,7 @@
       "minecraft:forest": "2024-11-28 02:18:16 +0000",
       "minecraft:mountains": "2024-11-28 02:30:03 +0000",
       "minecraft:taiga": "2024-11-28 03:40:09 +0000",
+      "minecraft:taiga_hills": "2024-11-28 04:43:43 +0000",
       "minecraft:birch_forest": "2024-11-28 02:53:41 +0000",
       "minecraft:dark_forest": "2024-11-28 02:42:18 +0000",
       "minecraft:river": "2024-11-28 02:34:33 +0000",
