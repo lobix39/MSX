@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lavender_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-28 06:46:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-28 02:47:43 +0000"
@@ -1917,6 +1923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lavender_slab": {
+    "criteria": {
+      "has_planks": "2024-11-28 06:46:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-11-28 06:36:14 +0000"
@@ -2364,6 +2376,12 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-11-28 02:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lavender_fence": {
+    "criteria": {
+      "has_planks": "2024-11-28 06:46:43 +0000"
     },
     "done": true
   },
