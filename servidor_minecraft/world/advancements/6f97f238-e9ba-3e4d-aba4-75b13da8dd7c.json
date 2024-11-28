@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-11-28 00:59:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2024-11-27 19:46:46 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-27 09:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-28 00:59:55 +0000"
     },
     "done": true
   },
@@ -161,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-11-28 00:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
@@ -206,6 +224,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-11-27 09:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2024-11-28 00:57:28 +0000"
     },
     "done": true
   },
@@ -467,6 +491,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 00:59:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-11-28 00:56:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-11-27 08:37:12 +0000"
@@ -594,7 +630,8 @@
       "minecraft:spider": "2024-11-27 09:32:49 +0000",
       "minecraft:creeper": "2024-11-27 09:49:56 +0000",
       "minecraft:witch": "2024-11-27 09:55:05 +0000",
-      "minecraft:zombie": "2024-11-27 09:09:36 +0000"
+      "minecraft:zombie": "2024-11-27 09:09:36 +0000",
+      "minecraft:zombie_villager": "2024-11-28 01:06:08 +0000"
     },
     "done": false
   },
@@ -844,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 00:59:52 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-11-27 08:37:12 +0000"
@@ -1006,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-28 00:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-27 19:47:06 +0000"
@@ -1063,6 +1112,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-27 10:11:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 00:59:55 +0000"
     },
     "done": true
   },
@@ -1155,8 +1210,10 @@
       "minecraft:forest": "2024-11-27 08:37:12 +0000",
       "minecraft:mountains": "2024-11-27 09:45:11 +0000",
       "minecraft:taiga": "2024-11-27 10:15:35 +0000",
+      "minecraft:taiga_hills": "2024-11-28 00:59:44 +0000",
       "minecraft:dark_forest": "2024-11-27 10:22:33 +0000",
       "minecraft:river": "2024-11-27 09:12:52 +0000",
+      "minecraft:wooded_mountains": "2024-11-28 00:59:57 +0000",
       "minecraft:wooded_hills": "2024-11-27 09:10:25 +0000",
       "minecraft:plains": "2024-11-27 10:20:47 +0000"
     },
@@ -1201,6 +1258,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-11-27 09:43:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2024-11-28 00:55:44 +0000"
     },
     "done": true
   },
@@ -1435,6 +1498,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-28 01:03:12 +0000"
     },
     "done": true
   },
@@ -1701,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-28 01:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-11-27 09:41:34 +0000"
@@ -1746,6 +1821,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-27 09:41:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2024-11-28 01:04:02 +0000"
     },
     "done": true
   },
@@ -1959,6 +2040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-11-28 00:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_the_recipe": "2024-11-27 19:47:05 +0000"
@@ -1986,6 +2073,12 @@
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2024-11-27 10:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-28 00:59:55 +0000"
     },
     "done": true
   },
@@ -2076,6 +2169,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-11-27 10:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2024-11-28 00:59:55 +0000"
     },
     "done": true
   },
@@ -2229,6 +2328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-11-28 00:59:55 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2024-11-27 09:55:20 +0000"
@@ -2355,9 +2460,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-11-28 00:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-27 08:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2024-11-28 00:57:28 +0000"
     },
     "done": true
   },
@@ -2508,6 +2625,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2024-11-27 10:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-28 00:59:55 +0000"
     },
     "done": true
   },
