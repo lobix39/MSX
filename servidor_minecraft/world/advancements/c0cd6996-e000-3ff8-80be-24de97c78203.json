@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lavender_planks": {
+    "criteria": {
+      "has_log": "2024-11-28 05:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-11-28 04:34:51 +0000"
@@ -32,6 +38,12 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-11-28 04:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2024-11-28 05:38:33 +0000"
     },
     "done": true
   },
@@ -170,6 +182,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lavender_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 05:34:12 +0000"
     },
     "done": true
   },

@@ -5460,3 +5460,8 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [28Nov2024 05:32:19.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> zz
 [28Nov2024 05:32:22.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> joha
 [28Nov2024 05:32:26.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> duerme perra
+[28Nov2024 05:33:38.380] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 05:33:38.394] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 05:37:06.493] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: josue1507 moved wrongly!
+[28Nov2024 05:38:38.471] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 05:38:38.480] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
