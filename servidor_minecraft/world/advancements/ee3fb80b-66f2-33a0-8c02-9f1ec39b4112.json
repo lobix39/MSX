@@ -836,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-28 06:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-11-28 01:03:37 +0000"
@@ -1523,6 +1529,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-11-28 03:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2024-11-28 06:16:47 +0000"
     },
     "done": true
   },
