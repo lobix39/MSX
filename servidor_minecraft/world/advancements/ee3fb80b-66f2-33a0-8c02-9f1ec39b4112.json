@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-11-28 00:39:49 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/upgrades/copper_to_silver_chest_upgrade": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 01:06:17 +0000"
@@ -560,6 +572,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-11-28 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-11-28 07:18:22 +0000"
     },
     "done": true
   },
@@ -668,6 +686,12 @@
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2024-11-28 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -1052,6 +1076,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-28 05:37:17 +0000"
@@ -1067,6 +1097,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -1205,6 +1241,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -1472,6 +1514,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/diving_helmet": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_mountains": "2024-11-28 06:04:28 +0000",
@@ -1562,6 +1610,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/diving_boots": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-11-28 00:38:34 +0000"
@@ -1646,6 +1700,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 01:06:17 +0000"
@@ -1655,6 +1715,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
     "criteria": {
       "has_blasting_upgrade": "2024-11-27 23:25:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -1679,6 +1745,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2024-11-27 23:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -1796,6 +1868,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2024-11-28 00:39:58 +0000"
@@ -1814,6 +1892,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lavender_planks": {
     "criteria": {
       "has_log": "2024-11-28 00:57:19 +0000"
@@ -1826,9 +1910,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_ingot_aluminum": {
     "criteria": {
       "has_storage_aluminum": "2024-11-28 01:08:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -1964,6 +2060,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 01:22:13 +0000"
@@ -2009,6 +2111,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-11-28 03:34:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -2435,6 +2543,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-27 23:26:23 +0000"
@@ -2825,6 +2939,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-28 04:44:29 +0000"
@@ -3155,6 +3275,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-11-28 01:21:59 +0000"
@@ -3170,6 +3296,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-11-28 05:42:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -3293,6 +3425,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/copper_casing": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 01:06:17 +0000"
@@ -3368,6 +3506,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-11-28 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
@@ -3509,6 +3653,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2024-11-28 07:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-11-28 04:32:10 +0000"
@@ -3530,6 +3680,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-11-28 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-11-28 07:14:47 +0000"
     },
     "done": true
   },
