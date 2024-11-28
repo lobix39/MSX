@@ -278,3 +278,13 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [28Nov2024 05:02:45.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> calla puta
 [28Nov2024 05:02:50.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 [28Nov2024 05:03:11.391] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! -9.942136366708155,0.0,-1.472284153499288
+[28Nov2024 05:08:48.817] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY lost connection: Timed out
+[28Nov2024 05:08:48.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY left the game
+[28Nov2024 05:13:36.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy has made the advancement [Chompy]
+[28Nov2024 05:13:40.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy is bleeding...
+[28Nov2024 05:14:04.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy was slain by Crocodile
+[28Nov2024 05:14:36.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> zzz
+[28Nov2024 05:16:02.961] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2ee80e32
+[28Nov2024 05:16:02.971] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:44576] logged in with entity id 15371 at (-1239.4133266241852, 73.0, 449.03324773661745)
+[28Nov2024 05:16:02.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
+[28Nov2024 05:16:03.010] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
