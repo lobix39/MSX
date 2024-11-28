@@ -281,3 +281,18 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [28Nov2024 20:47:10.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 joined the game
 [28Nov2024 20:47:10.415] [Server thread/INFO] [Waila/]: Syncing config to josue1507 (ee3fb80b-66f2-33a0-8c02-9f1ec39b4112)
 [28Nov2024 21:05:00.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 has made the advancement [Diamonds!]
+[28Nov2024 21:13:34.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 is bleeding...
+[28Nov2024 21:14:27.592] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: josue1507 lost connection: Timed out
+[28Nov2024 21:14:27.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 left the game
+[28Nov2024 21:14:27.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 was shot by Skeleton
+[28Nov2024 21:14:27.651] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[28Nov2024 21:17:55.252] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@512d636b
+[28Nov2024 21:17:55.274] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: josue1507[/0:0:0:0:0:0:0:1%0:55284] logged in with entity id 6034 at (-1453.0590357165454, 13.0, 358.30862396614)
+[28Nov2024 21:17:55.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 joined the game
+[28Nov2024 21:17:55.320] [Server thread/INFO] [Waila/]: Syncing config to josue1507 (ee3fb80b-66f2-33a0-8c02-9f1ec39b4112)
+[28Nov2024 21:20:54.850] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a9e172f
+[28Nov2024 21:20:54.865] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:45032] logged in with entity id 6802 at (-1845.9270754231268, 11.0, 182.9413992553252)
+[28Nov2024 21:20:54.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
+[28Nov2024 21:20:54.886] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
+[28Nov2024 21:22:10.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY is bleeding...
+[28Nov2024 21:23:10.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY was slain by Dread Hound
