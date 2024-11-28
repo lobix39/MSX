@@ -336,3 +336,17 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [28Nov2024 12:20:16.683] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
 [28Nov2024 12:20:16.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
 [28Nov2024 12:20:16.761] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[28Nov2024 12:22:52.792] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3d86ebe6
+[28Nov2024 12:22:52.810] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lobix39[/0:0:0:0:0:0:0:1%0:37392] logged in with entity id 1153 at (-1329.2183247577552, 63.0, 452.00276649447767)
+[28Nov2024 12:22:52.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
+[28Nov2024 12:22:52.844] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
+[28Nov2024 12:24:23.183] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
+[28Nov2024 12:24:23.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
+[28Nov2024 12:30:00.336] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2144f676
+[28Nov2024 12:30:00.351] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lobix39[/0:0:0:0:0:0:0:1%0:38272] logged in with entity id 1710 at (-1329.2183247577552, 63.0, 452.00276649447767)
+[28Nov2024 12:30:00.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
+[28Nov2024 12:30:00.381] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
+[28Nov2024 12:30:15.534] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
+[28Nov2024 12:30:15.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
+[28Nov2024 12:30:32.526] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@50c0d759[id=<null>,name=Lobix39,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:38280): Took too long to log in
+[28Nov2024 12:30:32.576] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@50c0d759[id=<null>,name=Lobix39,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:38280) lost connection: Took too long to log in
