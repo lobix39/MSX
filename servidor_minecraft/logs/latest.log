@@ -242,3 +242,18 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [28Nov2024 04:33:02.137] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 0e634296-c9ca-4cb9-af2e-837d81a0357e. Existing alexsmobs:crow#2146, new: alexsmobs:crow#2373
 [28Nov2024 04:33:02.143] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 07b2b854-c45d-4d3b-9bd0-13692867902e. Existing alexsmobs:crow#2153, new: alexsmobs:crow#2374
 [28Nov2024 04:34:55.738] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 4d874f7c-95b8-40ff-9ca3-71bfea65ffd9. Existing alexsmobs:crow#2982, new: alexsmobs:crow#3347
+[28Nov2024 04:38:29.975] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 5.614161564832102,0.8166000031828844,8.333776907717834
+[28Nov2024 04:41:33.561] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! -8.987008123246824,1.0,-4.344993269979682
+[28Nov2024 04:41:49.415] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 9.471850296560888,0.0,3.6349303970800975
+[28Nov2024 04:42:05.364] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 9.463886672369199,0.0,3.7000876914530068
+[28Nov2024 04:42:45.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy has made the advancement [Suit Up]
+[28Nov2024 04:43:54.807] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY was kicked for floating too long!
+[28Nov2024 04:43:54.808] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY lost connection: Flying is not enabled on this server
+[28Nov2024 04:43:54.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY left the game
+[28Nov2024 04:43:54.861] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[28Nov2024 04:44:16.366] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7085069f
+[28Nov2024 04:44:16.374] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:40752] logged in with entity id 6235 at (-1346.3845540065506, 68.5, 460.4279246933656)
+[28Nov2024 04:44:16.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
+[28Nov2024 04:44:16.428] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
+[28Nov2024 04:44:47.027] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 7.450283772463081,0.0,-6.829648914789857
+[28Nov2024 04:45:29.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY has made the advancement [Getting an Upgrade]

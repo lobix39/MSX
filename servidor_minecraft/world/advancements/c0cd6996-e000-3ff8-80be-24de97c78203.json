@@ -1,31 +1,25 @@
 {
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
-      "has_upgrade_base": "2024-11-28 04:16:30 +0000"
+      "has_stick": "2024-11-28 04:34:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "in_water": "2024-11-28 04:16:42 +0000"
+      "has_stick": "2024-11-28 04:34:51 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+  "create:recipes/create.base/crafting/kinetics/blue_seat": {
     "criteria": {
-      "has_smoking_upgrade": "2024-11-28 04:16:30 +0000"
+      "has_wool": "2024-11-28 04:34:00 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+  "naturescompass:natures_compass": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2024-11-28 04:16:30 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-11-28 04:16:30 +0000"
+      "has_recipe": "2024-11-28 04:34:50 +0000"
     },
     "done": true
   },
@@ -47,47 +41,27 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
-      "has_blasting_upgrade": "2024-11-28 04:16:30 +0000"
+      "has_stick": "2024-11-28 04:34:51 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_smelting_upgrade": "2024-11-28 04:16:30 +0000"
+      "has_planks": "2024-11-28 04:39:45 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "in_water": "2024-11-28 04:16:42 +0000"
+      "has_stick": "2024-11-28 04:34:51 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+  "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
-      "in_water": "2024-11-28 04:16:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-11-28 04:16:30 +0000",
-      "minecraft:mountains": "2024-11-28 04:31:11 +0000",
-      "minecraft:wooded_hills": "2024-11-28 04:30:07 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-11-28 04:17:37 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 04:16:42 +0000"
+      "has_wool": "2024-11-28 04:34:00 +0000"
     },
     "done": true
   },
@@ -97,51 +71,214 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-11-28 04:16:30 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2024-11-28 04:16:30 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:16:42 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "consumed_item": "2024-11-28 04:17:20 +0000"
+      "has_stick": "2024-11-28 04:34:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-28 04:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 04:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:16:42 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "useitem": "2024-11-28 04:17:20 +0000"
+      "has_planks": "2024-11-28 04:39:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:16:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-11-28 04:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "potato": "2024-11-28 04:37:44 +0000",
+      "carrot": "2024-11-28 04:40:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2024-11-28 04:34:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
     },
     "done": true
   },
@@ -157,27 +294,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/dead_boat": {
+  "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
-      "in_water": "2024-11-28 04:16:42 +0000"
+      "has_oak_planks": "2024-11-28 04:39:45 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+  "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
-      "has_auto_smelting_upgrade": "2024-11-28 04:16:30 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-11-28 04:16:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 04:16:42 +0000"
+      "has_planks": "2024-11-28 04:39:45 +0000"
     },
     "done": true
   },
@@ -187,9 +312,344 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-11-28 04:37:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-11-28 04:16:30 +0000",
+      "minecraft:mountains": "2024-11-28 04:31:11 +0000",
+      "minecraft:dark_forest": "2024-11-28 04:37:56 +0000",
+      "minecraft:river": "2024-11-28 04:32:37 +0000",
+      "minecraft:wooded_hills": "2024-11-28 04:30:07 +0000",
+      "minecraft:plains": "2024-11-28 04:35:25 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-28 04:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 04:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-11-28 04:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-28 04:37:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-28 04:37:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-11-28 04:33:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-28 04:16:30 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-11-28 04:34:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-11-28 04:17:20 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 04:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-28 04:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-11-28 04:39:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-11-28 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-11-28 04:34:51 +0000"
     },
     "done": true
   },

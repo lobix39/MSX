@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-11-28 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-11-28 01:06:17 +0000"
@@ -446,6 +452,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-11-28 00:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-11-28 04:35:02 +0000"
     },
     "done": true
   },
@@ -728,6 +740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-11-28 04:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-11-28 01:20:35 +0000"
@@ -779,6 +797,18 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-11-27 23:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-11-28 04:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-11-28 04:33:50 +0000"
     },
     "done": true
   },
@@ -1449,8 +1479,10 @@
     "criteria": {
       "sweet_berries": "2024-11-28 00:46:37 +0000",
       "baked_potato": "2024-11-28 03:41:26 +0000",
+      "beef": "2024-11-28 04:33:10 +0000",
       "apple": "2024-11-28 01:03:39 +0000",
       "potato": "2024-11-28 03:36:49 +0000",
+      "mutton": "2024-11-28 04:34:23 +0000",
       "bread": "2024-11-28 01:18:26 +0000",
       "beetroot": "2024-11-28 03:37:18 +0000",
       "carrot": "2024-11-28 03:32:25 +0000"
@@ -2078,6 +2110,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-11-28 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-11-28 04:35:02 +0000"
     },
     "done": true
   },
