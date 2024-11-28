@@ -1,84 +1,84 @@
-[28Nov2024 04:26:21.843] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[28Nov2024 04:26:21.846] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[28Nov2024 04:26:23.951] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[28Nov2024 04:26:24.084] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[28Nov2024 04:26:25.280] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 04:26:25.379] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 04:26:25.390] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 04:26:25.396] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 04:26:25.402] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 04:26:25.407] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 04:26:26.914] [main/ERROR] [mixin/]: Mixin config bendylib.mixins.json does not specify "minVersion" property
-[28Nov2024 04:26:26.985] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[28Nov2024 04:26:38.559] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Nov2024 04:26:38.566] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Nov2024 04:26:38.566] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Nov2024 04:26:38.567] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Nov2024 04:26:38.815] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Nov2024 04:26:38.815] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[28Nov2024 04:26:39.128] [modloading-worker-0/INFO] [STDOUT/]: [io.github.kosmx.bendylib.forge.ForgeModInterface:<init>:10]: [bendy-lib] You're loading a client-only mod on server-side
-[28Nov2024 04:26:39.129] [modloading-worker-0/INFO] [STDOUT/]: [io.github.kosmx.bendylib.forge.ForgeModInterface:<init>:11]: [bendy-lib] Most likely it won't be a problem
-[28Nov2024 04:26:39.521] [modloading-worker-0/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[28Nov2024 04:26:41.768] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[28Nov2024 04:26:41.768] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[28Nov2024 04:26:41.891] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
-[28Nov2024 04:26:47.927] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[28Nov2024 04:26:47.939] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[28Nov2024 04:26:49.430] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
-[28Nov2024 04:26:49.831] [modloading-worker-2/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[28Nov2024 04:26:49.905] [modloading-worker-2/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[28Nov2024 04:26:50.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
-[28Nov2024 04:26:50.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.16.5-5.1.0-148 Target: null
-[28Nov2024 04:26:50.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[28Nov2024 04:26:50.529] [main/INFO] [journeymap/]: Initializing Packet Registries
-[28Nov2024 04:26:50.576] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[28Nov2024 05:22:39.809] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[28Nov2024 05:22:39.812] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[28Nov2024 05:22:40.473] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[28Nov2024 05:22:40.569] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/MSX/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[28Nov2024 05:22:41.732] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[28Nov2024 05:22:41.894] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[28Nov2024 05:22:41.916] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[28Nov2024 05:22:41.926] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[28Nov2024 05:22:41.935] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[28Nov2024 05:22:41.943] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[28Nov2024 05:22:43.866] [main/ERROR] [mixin/]: Mixin config bendylib.mixins.json does not specify "minVersion" property
+[28Nov2024 05:22:43.934] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[28Nov2024 05:22:58.121] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[28Nov2024 05:22:58.125] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[28Nov2024 05:22:58.126] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[28Nov2024 05:22:58.127] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[28Nov2024 05:22:58.363] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[28Nov2024 05:22:58.363] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[28Nov2024 05:22:58.639] [modloading-worker-2/INFO] [STDOUT/]: [io.github.kosmx.bendylib.forge.ForgeModInterface:<init>:10]: [bendy-lib] You're loading a client-only mod on server-side
+[28Nov2024 05:22:58.654] [modloading-worker-2/INFO] [STDOUT/]: [io.github.kosmx.bendylib.forge.ForgeModInterface:<init>:11]: [bendy-lib] Most likely it won't be a problem
+[28Nov2024 05:22:59.264] [modloading-worker-2/INFO] [com.simibubi.create.repack.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[28Nov2024 05:23:01.447] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[28Nov2024 05:23:01.449] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[28Nov2024 05:23:01.645] [modloading-worker-1/INFO] [expandability/]: ExpandAbility here, who dis?
+[28Nov2024 05:23:09.619] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[28Nov2024 05:23:09.622] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[28Nov2024 05:23:11.412] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[28Nov2024 05:23:11.557] [modloading-worker-1/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[28Nov2024 05:23:11.609] [modloading-worker-1/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[28Nov2024 05:23:11.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.16.5/changelog.json
+[28Nov2024 05:23:12.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.16.5-5.1.0-148 Target: null
+[28Nov2024 05:23:12.126] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[28Nov2024 05:23:12.136] [main/INFO] [journeymap/]: Initializing Packet Registries
+[28Nov2024 05:23:12.256] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[28Nov2024 04:26:50.578] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[28Nov2024 04:26:50.804] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mysticsbiomes:strawberry_cow, use EntityAttributeCreationEvent instead.
-[28Nov2024 04:26:50.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.11 Target: null
-[28Nov2024 04:26:50.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[28Nov2024 04:26:50.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.1 Target: null
-[28Nov2024 04:26:50.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
-[28Nov2024 04:26:50.927] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[28Nov2024 05:23:12.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[28Nov2024 05:23:12.263] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mysticsbiomes:strawberry_cow, use EntityAttributeCreationEvent instead.
+[28Nov2024 05:23:12.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: v1.9.11 Target: null
+[28Nov2024 05:23:12.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[28Nov2024 05:23:12.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.1 Target: null
+[28Nov2024 05:23:12.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/RakSrinaNa/FallingTree/1.16.5/update.json
+[28Nov2024 05:23:12.476] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[28Nov2024 04:26:50.927] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Nov2024 04:26:51.093] [modloading-worker-3/INFO] [Waila/]: Registered plugin at blusunrize.immersiveengineering.common.util.compat.jade.IEWailaPlugin
-[28Nov2024 04:26:51.117] [modloading-worker-3/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
-[28Nov2024 04:26:51.121] [modloading-worker-3/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[28Nov2024 04:26:51.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[28Nov2024 04:26:51.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
-[28Nov2024 04:26:51.144] [modloading-worker-3/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[28Nov2024 04:26:51.146] [modloading-worker-3/INFO] [Waila/]: Registered plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[28Nov2024 04:26:52.681] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[28Nov2024 05:23:12.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Nov2024 05:23:12.532] [modloading-worker-0/INFO] [Waila/]: Registered plugin at blusunrize.immersiveengineering.common.util.compat.jade.IEWailaPlugin
+[28Nov2024 05:23:12.535] [modloading-worker-0/INFO] [Waila/]: Registered plugin at net.blay09.mods.waystones.compat.WailaProvider
+[28Nov2024 05:23:12.554] [modloading-worker-0/INFO] [Waila/]: Registered plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[28Nov2024 05:23:12.569] [modloading-worker-0/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[28Nov2024 05:23:12.572] [modloading-worker-0/INFO] [Waila/]: Registered plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[28Nov2024 05:23:12.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[28Nov2024 05:23:12.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[28Nov2024 05:23:13.635] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[28Nov2024 04:26:59.467] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Nov2024 04:27:00.541] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, cart1] and [c, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 04:27:00.549] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, carts] and [c, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 04:27:00.557] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, cart1] and [c, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 04:27:00.560] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, carts] and [c, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 04:27:00.566] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 04:27:00.603] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 04:27:00.609] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Nov2024 04:27:00.613] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Nov2024 04:27:00.618] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 04:27:00.622] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Nov2024 04:27:00.626] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[28Nov2024 04:27:00.632] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[28Nov2024 04:27:00.657] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, mowziesmobs-1.5.27.jar, ImmersiveEngineering-1.16.5-5.1.0-148.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, player-animation-lib-forge-0.4.0+1.16.5.jar, CreativeCore_v2.2.1_mc1.16.5.jar, bendy-lib-forge-1.2.1.jar, curios-forge-1.16.5-4.0.5.1.jar, Waystones_1.16.5-7.6.4.jar, journeymap-1.16.5-5.8.6.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, [1.16.5] SecurityCraft v1.9.11.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, Artifacts-1.16.5-2.10.5.jar, lostcities-1.16-4.0.12-beta.jar, InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, MysticsBiomes-1.16.4-1.1.0.jar, FallingTree-1.16.5-2.11.7.jar, Aquaculture-1.16.5-2.1.23.jar, expandability-2.0.1-forge.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, geckolib-forge-1.16.5-3.0.106.jar, emotecraft-for-MC1.16.5-2.2.7-b.build.47-forge.jar, ironchest-1.16.5-11.2.21.jar, corpse-1.16.5-1.0.6.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, jei-1.16.5-7.8.0.1011.jar, flywheel-1.16-0.2.5.jar, create-mc1.16.5_v0.3.2g.jar
-[28Nov2024 04:27:04.691] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 37 recipes
-[28Nov2024 04:27:05.853] [Worker-Main-6/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table mysticsbiomes:blocks/cherry_vine
+[28Nov2024 05:23:19.284] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Nov2024 05:23:20.155] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, cart1] and [c, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Nov2024 05:23:20.173] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, carts] and [c, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Nov2024 05:23:20.177] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, cart1] and [c, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Nov2024 05:23:20.178] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [c, coupling, add, carts] and [c, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Nov2024 05:23:20.181] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [deathhistory, player] and [deathhistory, player_uuid] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Nov2024 05:23:20.198] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Nov2024 05:23:20.201] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Nov2024 05:23:20.204] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Nov2024 05:23:20.208] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28Nov2024 05:23:20.212] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28Nov2024 05:23:20.215] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[28Nov2024 05:23:20.217] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[28Nov2024 05:23:20.246] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, mowziesmobs-1.5.27.jar, ImmersiveEngineering-1.16.5-5.1.0-148.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, player-animation-lib-forge-0.4.0+1.16.5.jar, CreativeCore_v2.2.1_mc1.16.5.jar, bendy-lib-forge-1.2.1.jar, curios-forge-1.16.5-4.0.5.1.jar, Waystones_1.16.5-7.6.4.jar, journeymap-1.16.5-5.8.6.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, [1.16.5] SecurityCraft v1.9.11.jar, NaturesCompass-1.16.5-1.9.1-forge.jar, Artifacts-1.16.5-2.10.5.jar, lostcities-1.16-4.0.12-beta.jar, InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, MysticsBiomes-1.16.4-1.1.0.jar, FallingTree-1.16.5-2.11.7.jar, Aquaculture-1.16.5-2.1.23.jar, expandability-2.0.1-forge.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, geckolib-forge-1.16.5-3.0.106.jar, emotecraft-for-MC1.16.5-2.2.7-b.build.47-forge.jar, ironchest-1.16.5-11.2.21.jar, corpse-1.16.5-1.0.6.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, jei-1.16.5-7.8.0.1011.jar, flywheel-1.16-0.2.5.jar, create-mc1.16.5_v0.3.2g.jar
+[28Nov2024 05:23:23.548] [Worker-Main-6/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 37 recipes
+[28Nov2024 05:23:24.741] [Worker-Main-6/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table mysticsbiomes:blocks/cherry_vine
 com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has no property double
 	at net.minecraft.loot.conditions.BlockStateProperty$Serializer.func_227568_a_(SourceFile:82) ~[?:?]
 	at net.minecraft.advancements.criterion.StatePropertiesPredicate$Matcher.func_227200_a_(SourceFile:53) ~[?:?]
@@ -185,106 +185,93 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[28Nov2024 04:27:06.691] [Worker-Main-6/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[28Nov2024 04:27:07.109] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3244 advancements
-[28Nov2024 04:27:07.313] [Worker-Main-6/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 191 milliseconds
-[28Nov2024 04:27:07.461] [Worker-Main-6/INFO] [immersiveengineering/]: Recipes for potions: minecraft:long_invisibility, minecraft:strong_slowness, alexsmobs:strong_soulsteal, minecraft:slow_falling, mowziesmobs:long_poison_resist, minecraft:healing, minecraft:long_night_vision, minecraft:fire_resistance, minecraft:long_swiftness, minecraft:strong_poison, minecraft:strong_harming, minecraft:regeneration, alexsmobs:bug_pheromones, alexsmobs:soulsteal, minecraft:slowness, minecraft:strong_swiftness, minecraft:long_weakness, minecraft:weakness, minecraft:invisibility, minecraft:poison, alexsmobs:long_knockback_resistance, minecraft:long_strength, minecraft:strength, minecraft:strong_healing, minecraft:mundane, minecraft:turtle_master, alexsmobs:knockback_resistance, minecraft:long_leaping, minecraft:long_poison, minecraft:strong_strength, minecraft:awkward, minecraft:long_slowness, mowziesmobs:poison_resist, alexsmobs:speed_iii, minecraft:strong_turtle_master, minecraft:strong_leaping, minecraft:long_water_breathing, alexsmobs:lava_vision, minecraft:long_regeneration, alexsmobs:long_clinging, alexsmobs:long_soulsteal, minecraft:harming, alexsmobs:long_lava_vision, minecraft:water, minecraft:night_vision, minecraft:swiftness, alexsmobs:long_bug_pheromones, alexsmobs:clinging, minecraft:thick, alexsmobs:strong_knockback_resistance, alexsmobs:long_poison_resistance, minecraft:strong_regeneration, minecraft:water_breathing, minecraft:long_slow_falling, minecraft:leaping, minecraft:long_fire_resistance, minecraft:long_turtle_master, alexsmobs:poison_resistance
-[28Nov2024 04:27:15.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[28Nov2024 04:27:15.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Nov2024 04:27:15.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Nov2024 04:27:15.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Nov2024 04:27:16.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Nov2024 04:27:16.190] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[28Nov2024 04:27:16.453] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Nov2024 04:27:16.454] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Nov2024 04:27:16.454] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Nov2024 04:27:16.455] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Nov2024 04:27:16.707] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Nov2024 04:27:16.728] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Nov2024 04:27:16.730] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Nov2024 04:27:16.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Nov2024 04:27:17.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Nov2024 04:27:19.955] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 04:27:19.956] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 04:27:19.956] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 04:27:19.957] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 04:27:19.957] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 04:27:19.957] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 04:27:20.372] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 04:27:20.914] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
-[28Nov2024 04:27:21.562] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4315 ms
-[28Nov2024 04:27:21.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.069s)! For help, type "help"
-[28Nov2024 04:27:55.801] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49bfcbcd
-[28Nov2024 04:27:55.868] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: josue1507[/0:0:0:0:0:0:0:1%0:38808] logged in with entity id 267 at (-1265.7819008623228, 64.0, 379.359058218152)
-[28Nov2024 04:27:55.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 joined the game
-[28Nov2024 04:27:56.032] [Server thread/INFO] [Waila/]: Syncing config to josue1507 (ee3fb80b-66f2-33a0-8c02-9f1ec39b4112)
-[28Nov2024 04:27:56.899] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@42dc840f
-[28Nov2024 04:27:56.916] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: nathy[/0:0:0:0:0:0:0:1%0:38828] logged in with entity id 335 at (-1473.687743038389, 64.0, 448.0884314066834)
-[28Nov2024 04:27:56.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy joined the game
-[28Nov2024 04:27:57.061] [Server thread/INFO] [Waila/]: Syncing config to nathy (c89608e7-0107-3677-a46e-7b0ce5890fab)
-[28Nov2024 04:28:47.068] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5081a630
-[28Nov2024 04:28:47.076] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:57990] logged in with entity id 853 at (-257.8090293876712, 63.0, 161.31185960571418)
-[28Nov2024 04:28:47.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
-[28Nov2024 04:28:47.116] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
-[28Nov2024 04:29:00.683] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-256, y=63, z=163}
-[28Nov2024 04:29:06.232] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-255, y=62, z=161} BlockPos{x=-255, y=62, z=162}
-[28Nov2024 04:29:06.283] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-255, y=62, z=161} BlockPos{x=-256, y=63, z=162}
-[28Nov2024 04:29:12.983] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-255, y=62, z=161} BlockPos{x=-256, y=63, z=162}
-[28Nov2024 04:29:13.085] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-255, y=62, z=161} BlockPos{x=-256, y=62, z=162}
-[28Nov2024 04:29:13.381] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-256, y=62, z=161} BlockPos{x=-256, y=62, z=162}
-[28Nov2024 04:29:13.437] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-256, y=62, z=161} BlockPos{x=-255, y=62, z=162}
-[28Nov2024 04:29:14.682] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-256, y=62, z=161} BlockPos{x=-256, y=63, z=162}
-[28Nov2024 04:29:19.789] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-256, y=62, z=161} BlockPos{x=-255, y=62, z=162}
-[28Nov2024 04:29:19.883] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-256, y=62, z=161} BlockPos{x=-256, y=63, z=162}
-[28Nov2024 04:32:32.320] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID eacde1fe-084d-4cce-93a9-b0a221512b71. Existing alexsmobs:crow#1744, new: alexsmobs:crow#2239
-[28Nov2024 04:32:32.326] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID bf14c030-185c-49df-a2c4-58751d256b9c. Existing alexsmobs:crow#2063, new: alexsmobs:crow#2246
-[28Nov2024 04:32:33.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY is bleeding...
-[28Nov2024 04:33:02.137] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 0e634296-c9ca-4cb9-af2e-837d81a0357e. Existing alexsmobs:crow#2146, new: alexsmobs:crow#2373
-[28Nov2024 04:33:02.143] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 07b2b854-c45d-4d3b-9bd0-13692867902e. Existing alexsmobs:crow#2153, new: alexsmobs:crow#2374
-[28Nov2024 04:34:55.738] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 4d874f7c-95b8-40ff-9ca3-71bfea65ffd9. Existing alexsmobs:crow#2982, new: alexsmobs:crow#3347
-[28Nov2024 04:38:29.975] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 5.614161564832102,0.8166000031828844,8.333776907717834
-[28Nov2024 04:41:33.561] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! -8.987008123246824,1.0,-4.344993269979682
-[28Nov2024 04:41:49.415] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 9.471850296560888,0.0,3.6349303970800975
-[28Nov2024 04:42:05.364] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 9.463886672369199,0.0,3.7000876914530068
-[28Nov2024 04:42:45.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy has made the advancement [Suit Up]
-[28Nov2024 04:43:54.807] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY was kicked for floating too long!
-[28Nov2024 04:43:54.808] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY lost connection: Flying is not enabled on this server
-[28Nov2024 04:43:54.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY left the game
-[28Nov2024 04:43:54.861] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[28Nov2024 04:44:16.366] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7085069f
-[28Nov2024 04:44:16.374] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:40752] logged in with entity id 6235 at (-1346.3845540065506, 68.5, 460.4279246933656)
-[28Nov2024 04:44:16.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
-[28Nov2024 04:44:16.428] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
-[28Nov2024 04:44:47.027] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 7.450283772463081,0.0,-6.829648914789857
-[28Nov2024 04:45:29.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY has made the advancement [Getting an Upgrade]
-[28Nov2024 04:47:47.979] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! -9.69979731802323,1.0,2.4061741587904066
-[28Nov2024 04:50:25.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> tzzzzzzzzzzzzzzzzz
-[28Nov2024 04:50:25.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
-[28Nov2024 04:50:26.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
-[28Nov2024 04:50:27.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
-[28Nov2024 04:50:27.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
-[28Nov2024 04:50:31.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> z
-[28Nov2024 04:50:40.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ZZZZZZZZZZZZZZZ
-[28Nov2024 04:55:42.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY is bleeding...
-[28Nov2024 04:56:11.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY is bleeding...
-[28Nov2024 04:58:29.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy is bleeding...
-[28Nov2024 05:00:23.364] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 0.21718404773218936,0.0,-10.134325689229456
-[28Nov2024 05:00:47.393] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! -0.8333409837921408,0.0,9.971070167436437
-[28Nov2024 05:02:36.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> zzzzzzzzzzzzzzzzzzzzz
-[28Nov2024 05:02:39.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> zzzzzzzzzzzzzzz
-[28Nov2024 05:02:41.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ZZZZZZZZZZZZZZZZ
-[28Nov2024 05:02:42.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ZZZZ
-[28Nov2024 05:02:44.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ZZZZZZ
-[28Nov2024 05:02:45.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> calla puta
-[28Nov2024 05:02:50.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[28Nov2024 05:03:11.391] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! -9.942136366708155,0.0,-1.472284153499288
-[28Nov2024 05:08:48.817] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY lost connection: Timed out
-[28Nov2024 05:08:48.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY left the game
-[28Nov2024 05:13:36.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy has made the advancement [Chompy]
-[28Nov2024 05:13:40.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy is bleeding...
-[28Nov2024 05:14:04.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy was slain by Crocodile
-[28Nov2024 05:14:36.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> zzz
-[28Nov2024 05:16:02.961] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2ee80e32
-[28Nov2024 05:16:02.971] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:44576] logged in with entity id 15371 at (-1239.4133266241852, 73.0, 449.03324773661745)
-[28Nov2024 05:16:02.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
-[28Nov2024 05:16:03.010] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
+[28Nov2024 05:23:25.607] [Worker-Main-6/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[28Nov2024 05:23:26.069] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3244 advancements
+[28Nov2024 05:23:26.174] [Worker-Main-6/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 96 milliseconds
+[28Nov2024 05:23:26.303] [Worker-Main-6/INFO] [immersiveengineering/]: Recipes for potions: minecraft:swiftness, minecraft:healing, mowziesmobs:long_poison_resist, minecraft:strong_poison, minecraft:water, minecraft:thick, minecraft:fire_resistance, minecraft:long_slowness, minecraft:long_turtle_master, minecraft:strong_strength, minecraft:strong_regeneration, alexsmobs:speed_iii, minecraft:weakness, alexsmobs:long_bug_pheromones, minecraft:water_breathing, minecraft:strong_turtle_master, alexsmobs:long_knockback_resistance, alexsmobs:lava_vision, alexsmobs:clinging, minecraft:long_fire_resistance, alexsmobs:long_soulsteal, minecraft:strength, minecraft:long_slow_falling, minecraft:slow_falling, alexsmobs:strong_soulsteal, minecraft:regeneration, minecraft:long_invisibility, minecraft:strong_healing, minecraft:strong_swiftness, alexsmobs:strong_knockback_resistance, minecraft:long_strength, minecraft:long_leaping, minecraft:long_water_breathing, alexsmobs:poison_resistance, minecraft:strong_harming, minecraft:slowness, minecraft:long_poison, minecraft:long_weakness, alexsmobs:long_clinging, minecraft:mundane, minecraft:long_regeneration, minecraft:invisibility, minecraft:strong_leaping, minecraft:turtle_master, minecraft:night_vision, alexsmobs:bug_pheromones, alexsmobs:knockback_resistance, minecraft:leaping, alexsmobs:long_lava_vision, alexsmobs:soulsteal, minecraft:poison, mowziesmobs:poison_resist, minecraft:long_swiftness, minecraft:strong_slowness, minecraft:harming, alexsmobs:long_poison_resistance, minecraft:awkward, minecraft:long_night_vision
+[28Nov2024 05:23:33.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[28Nov2024 05:23:33.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Nov2024 05:23:33.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Nov2024 05:23:33.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Nov2024 05:23:33.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Nov2024 05:23:33.478] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[28Nov2024 05:23:33.754] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Nov2024 05:23:33.755] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Nov2024 05:23:33.755] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Nov2024 05:23:33.756] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Nov2024 05:23:33.906] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28Nov2024 05:23:34.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Nov2024 05:23:34.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Nov2024 05:23:36.198] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[28Nov2024 05:23:36.540] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28Nov2024 05:23:36.542] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28Nov2024 05:23:36.543] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28Nov2024 05:23:36.544] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28Nov2024 05:23:36.546] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28Nov2024 05:23:37.047] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28Nov2024 05:23:37.805] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3259 ms
+[28Nov2024 05:23:37.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.983s)! For help, type "help"
+[28Nov2024 05:23:37.814] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[28Nov2024 05:23:46.749] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@40892943
+[28Nov2024 05:23:46.928] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: josue1507[/0:0:0:0:0:0:0:1%0:43030] logged in with entity id 133 at (-1314.1685196445208, 70.0, 438.13939754376895)
+[28Nov2024 05:23:47.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 joined the game
+[28Nov2024 05:23:47.214] [Server thread/INFO] [Waila/]: Syncing config to josue1507 (ee3fb80b-66f2-33a0-8c02-9f1ec39b4112)
+[28Nov2024 05:23:54.059] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@588e0fa0
+[28Nov2024 05:23:54.080] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: nathy[/0:0:0:0:0:0:0:1%0:43048] logged in with entity id 480 at (-1333.4322967647374, 63.0, 469.1429628315162)
+[28Nov2024 05:23:54.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy joined the game
+[28Nov2024 05:23:54.160] [Server thread/INFO] [Waila/]: Syncing config to nathy (c89608e7-0107-3677-a46e-7b0ce5890fab)
+[28Nov2024 05:24:05.894] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@579da1af
+[28Nov2024 05:24:05.909] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:46728] logged in with entity id 504 at (-1383.4740264212521, 63.0, 481.80951330820386)
+[28Nov2024 05:24:05.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
+[28Nov2024 05:24:05.964] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
+[28Nov2024 05:25:51.052] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY lost connection: Timed out
+[28Nov2024 05:25:51.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY left the game
+[28Nov2024 05:25:51.120] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[28Nov2024 05:25:54.491] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: nathy lost connection: Timed out
+[28Nov2024 05:25:54.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy left the game
+[28Nov2024 05:26:02.533] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: josue1507 lost connection: Timed out
+[28Nov2024 05:26:02.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 left the game
+[28Nov2024 05:26:27.236] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b054461
+[28Nov2024 05:26:27.253] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: josue1507[/0:0:0:0:0:0:0:1%0:54026] logged in with entity id 1285 at (-1338.7686387765286, 70.0, 447.72463323939985)
+[28Nov2024 05:26:27.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 joined the game
+[28Nov2024 05:26:27.287] [Server thread/INFO] [Waila/]: Syncing config to josue1507 (ee3fb80b-66f2-33a0-8c02-9f1ec39b4112)
+[28Nov2024 05:26:39.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@f8db51a
+[28Nov2024 05:26:39.062] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:47628] logged in with entity id 1542 at (-1385.699999988079, 64.0, 354.8308505613802)
+[28Nov2024 05:26:39.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
+[28Nov2024 05:26:39.101] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
+[28Nov2024 05:27:09.239] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY lost connection: Timed out
+[28Nov2024 05:27:09.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY left the game
+[28Nov2024 05:27:44.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a017181
+[28Nov2024 05:27:44.412] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: nathy[/0:0:0:0:0:0:0:1%0:47264] logged in with entity id 1741 at (-1321.1881976673037, 63.0, 463.5821676736742)
+[28Nov2024 05:27:44.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nathy joined the game
+[28Nov2024 05:27:44.466] [Server thread/INFO] [Waila/]: Syncing config to nathy (c89608e7-0107-3677-a46e-7b0ce5890fab)
+[28Nov2024 05:28:31.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> joha?
+[28Nov2024 05:28:37.536] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@689329f4
+[28Nov2024 05:28:37.545] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:51874] logged in with entity id 1918 at (-1385.699999988079, 64.0, 354.8308505613802)
+[28Nov2024 05:28:37.547] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
+[28Nov2024 05:28:37.581] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
+[28Nov2024 05:28:38.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> Vamos a la mina
+[28Nov2024 05:28:47.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> JOha
+[28Nov2024 05:28:59.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> wuw
+[28Nov2024 05:28:59.499] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: josue1507 moved too quickly! 9.577413790009587,1.2392592750642422,-3.476654936782097
+[28Nov2024 05:29:02.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> uwe
+[28Nov2024 05:29:08.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> escuchaste
+[28Nov2024 05:29:13.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ?
+[28Nov2024 05:29:18.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> ?
+[28Nov2024 05:29:29.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> solo usdes
+[28Nov2024 05:29:30.067] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! 9.558854997765593,0.0,3.398635203187041
+[28Nov2024 05:29:36.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> solo ustedes
+[28Nov2024 05:29:46.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> mueve
+[28Nov2024 05:29:58.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> no
+[28Nov2024 05:30:07.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> yome quedo
+[28Nov2024 05:32:11.640] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY moved too quickly! -1.0770046202048889,0.0,9.959564223043003
+[28Nov2024 05:32:11.647] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: nathy moved too quickly! -0.8570408244306691,0.0,-10.14401025768251
+[28Nov2024 05:32:11.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> zzz
+[28Nov2024 05:32:11.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> joha
+[28Nov2024 05:32:11.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> zzz
+[28Nov2024 05:32:11.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> zz
+[28Nov2024 05:32:11.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> }
+[28Nov2024 05:32:17.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> zz
+[28Nov2024 05:32:19.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> zz
+[28Nov2024 05:32:22.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> joha
+[28Nov2024 05:32:26.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <josue1507> duerme perra
