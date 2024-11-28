@@ -296,3 +296,22 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [28Nov2024 21:20:54.886] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
 [28Nov2024 21:22:10.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY is bleeding...
 [28Nov2024 21:23:10.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY was slain by Dread Hound
+[28Nov2024 21:23:40.203] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY lost connection: Timed out
+[28Nov2024 21:23:40.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY left the game
+[28Nov2024 21:23:40.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY was slain by Dread Hound
+[28Nov2024 21:24:02.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 is bleeding...
+[28Nov2024 21:24:48.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 was slain by Decrepit Skeleton
+[28Nov2024 21:25:11.135] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: josue1507 lost connection: Timed out
+[28Nov2024 21:25:11.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 left the game
+[28Nov2024 21:25:36.837] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@51b81780
+[28Nov2024 21:25:36.853] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: josue1507[/0:0:0:0:0:0:0:1%0:48724] logged in with entity id 9115 at (-1339.5, 63.5625, 445.5)
+[28Nov2024 21:25:36.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: josue1507 joined the game
+[28Nov2024 21:25:36.868] [Server thread/INFO] [Waila/]: Syncing config to josue1507 (ee3fb80b-66f2-33a0-8c02-9f1ec39b4112)
+[28Nov2024 21:26:30.846] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@444f285f
+[28Nov2024 21:26:30.864] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: MKTYY[/0:0:0:0:0:0:0:1%0:37302] logged in with entity id 9423 at (-1812.5181839958336, 20.0, 198.21513200050998)
+[28Nov2024 21:26:30.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
+[28Nov2024 21:26:30.881] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
+[28Nov2024 21:28:37.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY is bleeding...
+[28Nov2024 21:29:16.292] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: MKTYY lost connection: Timed out
+[28Nov2024 21:29:16.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY left the game
+[28Nov2024 21:29:16.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY drowned

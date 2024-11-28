@@ -1021,15 +1021,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-11-28 06:23:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 06:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
@@ -1075,15 +1075,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/trophy_system": {
-    "criteria": {
-      "has_iron": "2024-11-28 06:23:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-28 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
@@ -1438,15 +1438,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-28 06:23:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-11-28 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
@@ -1710,15 +1710,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-28 06:23:32 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/ironchest/upgrades/silver_to_gold_chest_upgrade": {
     "criteria": {
       "has_item": "2024-11-28 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
@@ -1746,15 +1746,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
-    "criteria": {
-      "has_iron_ingot": "2024-11-28 06:23:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 06:12:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
@@ -1926,15 +1926,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lavender_slab": {
-    "criteria": {
-      "has_planks": "2024-11-28 06:14:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/smelting/dolomite": {
     "criteria": {
       "has_item": "2024-11-28 06:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lavender_slab": {
+    "criteria": {
+      "has_planks": "2024-11-28 06:14:52 +0000"
     },
     "done": true
   },
@@ -1944,15 +1944,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2024-11-28 06:23:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-11-28 06:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
@@ -1962,15 +1962,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/logistics/adjustable_pulse_repeater": {
-    "criteria": {
-      "has_item": "2024-11-28 06:23:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-28 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/adjustable_pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
@@ -2298,27 +2298,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-11-28 06:15:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-11-28 06:12:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
-      "has_granite": "2024-11-28 06:23:32 +0000"
+      "has_glass": "2024-11-28 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-28 21:20:54 +0000"
     },
     "done": true
   },
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2024-11-28 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
@@ -2658,15 +2664,15 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-11-28 06:23:32 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-28 06:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-28 06:23:32 +0000"
     },
     "done": true
   },
