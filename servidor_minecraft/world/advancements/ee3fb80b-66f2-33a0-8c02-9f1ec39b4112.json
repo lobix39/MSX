@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-28 08:09:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2024-11-28 00:39:58 +0000"
@@ -1025,6 +1031,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-28 01:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 08:11:41 +0000"
     },
     "done": true
   },
@@ -1694,6 +1706,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2024-11-28 08:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-11-28 02:38:08 +0000"
@@ -2314,6 +2332,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-11-28 08:12:20 +0000",
       "sweet_berries": "2024-11-28 00:46:37 +0000",
       "baked_potato": "2024-11-28 03:41:26 +0000",
       "beef": "2024-11-28 04:33:10 +0000",
