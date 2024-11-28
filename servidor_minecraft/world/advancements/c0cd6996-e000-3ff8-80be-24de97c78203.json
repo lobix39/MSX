@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-11-28 05:54:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-11-28 04:16:42 +0000"
@@ -466,6 +472,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-28 04:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-11-28 05:48:58 +0000"
     },
     "done": true
   },
@@ -631,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-28 05:48:58 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-11-28 04:34:51 +0000"
@@ -696,6 +714,14 @@
       "has_auto_smelting_upgrade": "2024-11-28 04:16:30 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-11-28 05:54:04 +0000",
+      "minecraft:spider": "2024-11-28 05:48:58 +0000",
+      "minecraft:zombie": "2024-11-28 05:53:47 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/kinetics/white_seat": {
     "criteria": {
