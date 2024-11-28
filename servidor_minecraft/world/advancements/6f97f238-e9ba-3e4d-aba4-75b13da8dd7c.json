@@ -149,12 +149,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2024-11-28 07:57:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-11-27 08:39:32 +0000"
@@ -401,12 +395,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-11-27 08:37:12 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2024-11-27 10:17:28 +0000"
@@ -422,12 +410,6 @@
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-11-27 10:17:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
-    "criteria": {
-      "has_smoking_upgrade": "2024-11-27 08:37:12 +0000"
     },
     "done": true
   },
@@ -545,12 +527,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-11-27 08:37:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-27 09:43:32 +0000"
@@ -614,12 +590,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 10:17:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-11-27 08:37:12 +0000"
     },
     "done": true
   },
@@ -851,12 +821,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-11-28 08:26:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-27 09:55:20 +0000"
@@ -1061,12 +1025,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2024-11-27 08:37:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-27 09:32:51 +0000"
@@ -1127,12 +1085,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
-    "criteria": {
-      "has_leather": "2024-11-27 10:02:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 10:17:28 +0000"
@@ -1187,6 +1139,12 @@
     },
     "done": true
   },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_iron": "2024-11-28 09:28:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-11-27 19:56:53 +0000"
@@ -1226,12 +1184,6 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-11-27 10:22:30 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
-    "criteria": {
-      "has_leather": "2024-11-27 10:02:27 +0000"
     },
     "done": true
   },
@@ -1445,12 +1397,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 10:17:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
-    "criteria": {
-      "has_blasting_upgrade": "2024-11-27 08:37:12 +0000"
     },
     "done": true
   },
@@ -2625,6 +2571,12 @@
     },
     "done": true
   },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-28 09:28:02 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2024-11-27 09:55:20 +0000"
@@ -2718,12 +2670,6 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-11-27 09:55:06 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2024-11-27 08:37:12 +0000"
     },
     "done": true
   },
@@ -2910,12 +2856,6 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-11-27 10:09:20 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
-    "criteria": {
-      "has_auto_smelting_upgrade": "2024-11-27 08:37:12 +0000"
     },
     "done": true
   },
