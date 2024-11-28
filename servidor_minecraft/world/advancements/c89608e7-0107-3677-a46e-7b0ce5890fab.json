@@ -1439,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lavender_planks": {
+    "criteria": {
+      "has_log": "2024-11-28 07:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-11-28 02:59:34 +0000"
@@ -2370,6 +2376,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-11-28 02:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lavender_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 07:33:59 +0000"
     },
     "done": true
   },
