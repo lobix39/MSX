@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-11-28 08:17:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2024-11-27 09:55:06 +0000"
@@ -1283,6 +1289,7 @@
       "minecraft:mountains": "2024-11-27 09:45:11 +0000",
       "minecraft:taiga": "2024-11-27 10:15:35 +0000",
       "minecraft:taiga_hills": "2024-11-28 00:59:44 +0000",
+      "minecraft:birch_forest": "2024-11-28 08:18:06 +0000",
       "minecraft:dark_forest": "2024-11-27 10:22:33 +0000",
       "minecraft:river": "2024-11-27 09:12:52 +0000",
       "minecraft:wooded_mountains": "2024-11-28 00:59:57 +0000",
@@ -1741,6 +1748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-11-28 08:17:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-11-27 09:55:20 +0000"
@@ -2098,6 +2111,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-27 09:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-11-28 08:17:26 +0000"
     },
     "done": true
   },
@@ -2656,6 +2675,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-11-27 08:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-28 08:17:26 +0000"
     },
     "done": true
   },
