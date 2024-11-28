@@ -355,3 +355,11 @@ com.google.gson.JsonSyntaxException: Block Block{mysticsbiomes:cherry_vine} has 
 [28Nov2024 11:02:23.168] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
 [28Nov2024 11:03:23.403] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Lobix39 lost connection: Timed out
 [28Nov2024 11:03:23.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 left the game
+[28Nov2024 11:04:53.902] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@1f97eaf6[id=<null>,name=Lobix39,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:34940): Took too long to log in
+[28Nov2024 11:04:53.945] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1f97eaf6[id=<null>,name=Lobix39,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:34940) lost connection: Took too long to log in
+[28Nov2024 11:05:28.345] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@3e66960b[id=<null>,name=Lobix39,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:35216): Took too long to log in
+[28Nov2024 11:05:28.396] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3e66960b[id=<null>,name=Lobix39,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:35216) lost connection: Took too long to log in
+[28Nov2024 11:12:45.802] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@300a0b5a
+[28Nov2024 11:12:45.812] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Lobix39[/0:0:0:0:0:0:0:1%0:53416] logged in with entity id 2273 at (-1322.0598544466882, 63.0, 431.9163610162088)
+[28Nov2024 11:12:45.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Lobix39 joined the game
+[28Nov2024 11:12:45.833] [Server thread/INFO] [Waila/]: Syncing config to Lobix39 (6f97f238-e9ba-3e4d-aba4-75b13da8dd7c)
