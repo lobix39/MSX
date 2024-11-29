@@ -5336,3 +5336,12 @@ A world backup will be automatically created in your saves directory.
 [29Nov2024 05:41:18.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY joined the game
 [29Nov2024 05:41:18.175] [Server thread/INFO] [Waila/]: Syncing config to MKTYY (c0cd6996-e000-3ff8-80be-24de97c78203)
 [29Nov2024 05:41:18.726] [Server thread/DEBUG] [emotecraft/]: [emotes server] Received data from: c0cd6996-e000-3ff8-80be-24de97c78203 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[29Nov2024 05:42:06.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <nathy> q vas a hacer
+[29Nov2024 05:42:19.657] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Nov2024 05:42:19.671] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Nov2024 05:46:02.623] [Server thread/INFO] [morpheus/]: nathy is now sleeping. 1/2 (50%)
+[29Nov2024 05:46:19.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY was slain by nathy
+[29Nov2024 05:46:51.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: MKTYY was slain by nathy
+[29Nov2024 05:46:56.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <MKTYY> puta
+[29Nov2024 05:47:19.801] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Nov2024 05:47:19.813] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
