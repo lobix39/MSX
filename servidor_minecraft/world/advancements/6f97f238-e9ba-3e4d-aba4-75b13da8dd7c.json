@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-27 09:41:34 +0000"
@@ -1014,9 +1020,21 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-11-29 03:50:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-11-28 12:48:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
     },
     "done": true
   },
@@ -1106,7 +1124,7 @@
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2024-11-27 08:37:12 +0000"
+      "custom_test_name": "2024-11-29 05:19:01 +0000"
     },
     "done": true
   },
@@ -1158,6 +1176,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/cage_trap": {
     "criteria": {
       "has_redstone": "2024-11-27 09:55:06 +0000"
@@ -1185,6 +1209,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 10:17:28 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
     },
     "done": true
   },
@@ -1236,6 +1266,13 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 03:50:06 +0000",
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-11-27 09:55:06 +0000"
@@ -1245,6 +1282,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-11-27 10:22:30 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-11-29 03:50:00 +0000"
     },
     "done": true
   },
@@ -1434,6 +1477,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-11-27 10:17:28 +0000"
@@ -1490,6 +1539,13 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-27 10:11:24 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 03:50:06 +0000",
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
     },
     "done": true
   },
@@ -1577,6 +1633,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-11-27 09:55:20 +0000"
@@ -1598,6 +1660,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-11-28 07:57:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
     },
     "done": true
   },
@@ -1666,6 +1734,12 @@
       "minecraft:soul_sand_valley": "2024-11-28 08:26:18 +0000"
     },
     "done": false
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
@@ -1808,6 +1882,12 @@
   "securitycraft:recipes/securitycraft/panic_button": {
     "criteria": {
       "has_redstone": "2024-11-27 09:55:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
     },
     "done": true
   },
@@ -2646,6 +2726,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-11-27 19:46:18 +0000"
@@ -2787,6 +2873,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-11-27 10:17:28 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
     },
     "done": true
   },
@@ -3018,6 +3110,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-27 08:37:43 +0000"
@@ -3111,6 +3209,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-11-27 09:55:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-11-29 03:50:06 +0000"
     },
     "done": true
   },
